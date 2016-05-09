@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "to.mobile"
+        versionCode = "10" 
+        version     = "0.1.1" >
+        
+    <name>ToMobileApp</name>
+    
+    <description>
+      A cool, simple, elegant way to push to mobile.
+    </description>
+    
+    
+    <preference name="permissions" value="none"/>
+    <preference name="orientation" value="portrait" />
+    <preference name="fullscreen" value="true" />
+    <icon src="icon.png" />
+
+    </widget>
